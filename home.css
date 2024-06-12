@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
+    background-color: #010148;
 }
 .panjab,.uiet{
   height: 150px;
@@ -130,6 +130,8 @@ footer {
     text-align: center;
     padding: 10px;
     position: fixed;
-    bottom: 0;
-   
+    bottom: 0 
+}
+#home{
+  background-color: white;
 }
